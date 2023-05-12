@@ -1,0 +1,6 @@
+project: string-interner
+target: collect
+duration: 300
+
+cmds:
+  - cmd: /collect
