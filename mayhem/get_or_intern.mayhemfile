@@ -1,0 +1,6 @@
+project: string-interner
+target: get_or_intern
+duration: 300
+
+cmds:
+  - cmd: /get_or_intern
